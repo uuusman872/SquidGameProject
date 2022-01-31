@@ -1,0 +1,9 @@
+.loadingBar{
+    position: fixed;
+    font-size: 25px;
+    font-weight: bold;
+    left: 50%;
+    top: 10px;
+    transform: translateX(-50px);
+
+}
